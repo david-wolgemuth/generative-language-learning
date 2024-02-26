@@ -1,0 +1,39 @@
+
+level: C1 # level on the CEFR (Common European Framework of Reference for Languages)
+
+title:
+  en: "Motivational Conversation"
+  es: "Conversación Motivacional"
+
+summary:
+  en: "Sara encourages Jack to stay focused on his dreams, emphasizing the importance of every step towards them. Jack acknowledges Sara's advice, expressing determination to persevere despite obstacles. Sara reassures Jack, highlighting the value of setbacks as opportunities for growth and resilience."
+  es: "Sara anima a Jack a mantenerse enfocado en sus sueños, enfatizando la importancia de cada paso hacia ellos. Jack reconoce el consejo de Sara, expresando determinación para perseverar a pesar de los obstáculos. Sara tranquiliza a Jack, resaltando el valor de los contratiempos como oportunidades de crecimiento y resiliencia."
+
+conversation:
+
+  - en: "Sara said, 'Remember, every step you take brings you closer to your dreams. Keep moving forward, no matter how small the progress.'"
+    es: "Sara dijo: 'Recuerda, cada paso que das te acerca más a tus sueños. Sigue adelante, sin importar lo pequeño que sea el progreso.'"
+  - en: "What do you say?"
+    es: "¿Qué dices?"
+  - en: "Jack nodded, his eyes gleaming with determination. 'You're right, Sara. Even the tiniest steps count. I'll keep pushing forward, no matter what obstacles come my way.'"
+    es: "Jack asintió, sus ojos brillaban con determinación. 'Tienes razón, Sara. Incluso los pasos más pequeños cuentan. Seguiré avanzando, sin importar los obstáculos que se interpongan en mi camino.'"
+  - en: "Sara smiled warmly. 'That's the spirit, Jack. And always remember, setbacks are just setups for comebacks. They make you stronger and more resilient.'"
+    es: "Sara sonrió cálidamente. 'Ese es el espíritu, Jack. Y recuerda siempre, los contratiempos son solo preparativos para regresar con más fuerza. Te hacen más fuerte y resistente.'"
+  - en: "Jack's shoulders straightened as he absorbed Sara's words. 'I'll keep that in mind. It's easy to get discouraged when things don't go as planned, but I'll choose to see them as opportunities to learn and grow.'"
+    es: "Los hombros de Jack se enderezaron mientras absorbía las palabras de Sara. 'Lo tendré en cuenta. Es fácil desanimarse cuando las cosas no salen como se planean, pero elegiré verlas como oportunidades para aprender y crecer.'"
+  - en: "Sara nodded approvingly. 'Exactly, Jack. It's all about perspective. When life throws challenges your way, don't let them defeat you. Rise above them and show the world what you're made of.'"
+    es: "Sara asintió aprobadamente. 'Exactamente, Jack. Todo se trata de perspectiva. Cuando la vida te presenta desafíos, no dejes que te derroten. Supéralos y muestra al mundo de qué estás hecho.'"
+  - en: "Jack took a deep breath, feeling a renewed sense of determination coursing through his veins. 'I won't back down, Sara. I'll face every challenge head-on and emerge stronger on the other side.'"
+    es: "Jack respiró profundamente, sintiendo un renovado sentido de determinación corriendo por sus venas. 'No retrocederé, Sara. Afrontaré cada desafío de frente y saldré más fuerte al otro lado.'"
+  - en: "Sara clapped him on the back, her eyes shining with pride. 'That's the spirit, Jack. Believe in yourself and your abilities. You're capable of achieving great things, as long as you never give up.'"
+    es: "Sara le dio una palmada en la espalda, sus ojos brillaban con orgullo. 'Ese es el espíritu, Jack. Cree en ti mismo y en tus habilidades. Eres capaz de lograr grandes cosas, siempre y cuando nunca te rindas.'"
+  - en: "Jack grinned, feeling a surge of confidence welling up inside him. 'Thanks, Sara. I needed that pep talk. I'll tackle my goals with renewed vigor and passion.'"
+    es: "Jack sonrió, sintiendo una oleada de confianza creciendo dentro de él. 'Gracias, Sara. Necesitaba esa charla motivadora. Afrontaré mis metas con renovado vigor y pasión.'"
+  - en: "Sara chuckled, her voice filled with warmth. 'Anytime, Jack. Remember, I'll always be here to support and encourage you along the way. Together, we can overcome any obstacle that comes our way.'"
+    es: "Sara rió, su voz llena de calidez. 'En cualquier momento, Jack. Recuerda, siempre estaré aquí para apoyarte y animarte en el camino. Juntos, podemos superar cualquier obstáculo que se interponga en nuestro camino.'"
+  - en: "Jack nodded, feeling grateful for Sara's unwavering support. 'I couldn't ask for a better friend and mentor. With you by my side, I know I can conquer anything that comes my way.'"
+    es: "Jack asintió, sintiéndose agradecido por el apoyo inquebrantable de Sara. 'No podría pedir un mejor amigo y mentor. Con usted a mi lado, sé que puedo conquistar cualquier cosa que se interponga en mi camino.'"
+  - en: "Sara smiled, her heart swelling with pride. 'That's what friends are for, Jack. We're in this journey called life together, and together, we'll reach new heights of success and fulfillment.'"
+    es: "Sara sonrió, su corazón hinchado de orgullo. 'Para eso están los amigos, Jack. Estamos en este viaje llamado vida juntos, y juntos, alcanzaremos nuevas alturas de éxito y realización.'"
+  - en: "And as they walked side by side, their spirits lifted and their hearts filled with hope, knowing that with each step they took, they were one step closer to achieving their dreams."
+    es: "Y mientras caminaban lado a lado, sus espíritus se elevaban y sus corazones se llenaban de esperanza, sabiendo que con cada paso que daban, estaban un paso más cerca de alcanzar sus sueños."

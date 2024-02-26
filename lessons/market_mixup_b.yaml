@@ -1,0 +1,19 @@
+level: A2
+
+title:
+  en: "Market Mix-Up"
+  es: "Confusión en el Mercado"
+
+summary:
+  en: "Join Elena navigating a market, encountering amusing mix-ups. laughter and learning, discover the joy of communication across cultures."
+  es: "Elena navegan por un bullicioso mercado, encontrándose con confusiones lingüísticas en el camino. A través de risas y aprendizaje, descubren la alegría de la comunicación entre culturas."
+
+conversation:
+  - en: "Javier points at the sandwich and asks you, '¿Cuánto cuesta una manzana?'"
+    es: "Javier señala el sándwich y te pregunta, 'How much does an apple cost?'"
+  - en: "The apple costs 1 dollar."
+    es: "La manzana cuesta 1 dólar."
+  - en: "Javier looks confused and says, 'I don't understand.'"
+    es: "Javier parece confundido y dice, 'No entiendo.'"
+  - en: "You laugh and say, 'I think you're pointing at the wrong thing.'"
+    es: "Te ríes y dices, 'Creo que estás señalando la cosa equivocada.'"

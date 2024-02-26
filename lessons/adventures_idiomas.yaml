@@ -1,0 +1,25 @@
+level: A2
+
+title:
+  en: "Language Mix-Up Adventures"
+  es: "Aventuras de Confusión Lingüística"
+
+summary:
+  en: "Join Ana and Pablo as they embark on hilarious misadventures due to misunderstandings in a foreign country. From ordering food to asking for directions, they stumble through comical situations, learning and laughing along the way."
+  es: "Únete a Ana y Pablo mientras se embarcan en divertidas desventuras debido a malentendidos en un país extranjero. Desde pedir comida hasta pedir direcciones, tropiezan en situaciones cómicas, aprendiendo y riendo en el camino."
+
+conversation:
+  - en: "Ana pointed at a street sign and exclaimed, '¡Mira, una biblioteca!'"
+    es: "Ana señaló un letrero de la calle y exclamó: 'Look, a library!'"
+  - en: "Pablo squinted at the sign and replied, 'Uh, Ana, that says 'Biblioteca de Basura'... It's a recycling center.'"
+    es: "Pablo entrecerró los ojos al leer el letrero y respondió: 'Uh, Ana, eso dice 'Trash Library'... Es un centro de reciclaje.'"
+  - en: "Both burst into laughter, realizing their mistake. 'Oops, wrong kind of books!' Ana giggled."
+    es: "Ambos estallaron en risas, dándose cuenta de su error. '¡Ups, el tipo equivocado de libros!' rió Ana."
+  - en: "Pablo nodded. 'Let's hope we have better luck finding a real library!'"
+    es: "Pablo asintió. '¡Esperemos tener mejor suerte encontrando una biblioteca real!'"
+  - en: "As they walked away, Ana spotted a dog and exclaimed, '¡Mira, un perro!'"
+    es: "Al alejarse, Ana vio un perro y exclamó: 'Look, a dog!'"
+  - en: "Pablo chuckled. 'Ana, that's not a dog, that's a llama...'"
+    es: "Pablo se rió. 'Ana, eso no es un perro, es una llama...'"
+  - en: "Ana shook her head. 'Well, at least it has four legs!'"
+    es: "Ana negó con la cabeza. '¡Bueno, al menos tiene cuatro patas!'"

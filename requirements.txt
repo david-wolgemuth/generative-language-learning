@@ -1,0 +1,44 @@
+# Requirements file for Text to Speech Language Learning Python Django App
+
+# Hugging Face Transformers library
+# Used for accessing pre-trained translation models
+transformers
+
+# PyTorch
+# A machine learning library used as a dependency for Hugging Face Transformers
+torch
+
+# gTTS (Google Text-to-Speech)
+# Used for converting translated text into audio
+gTTS
+
+# IPython
+# Provides enhanced interactive Python shell
+ipython
+
+# IPython debugger
+# Allows debugging with IPython's enhanced debugging features
+ipdb
+
+# Django (if the project includes a Django app)
+# A high-level Python web framework for building web applications
+# Used for building and managing the web application
+Django
+
+# Other Django dependencies (if applicable)
+# Add any additional Django dependencies here, if needed
+# For example:
+# django-crispy-forms==1.13.0
+# django-bootstrap4==3.0.1
+
+
+
+# MarianTokenizer requires the SentencePiece library,
+sentencepiece
+
+
+# Jupyter notebook (.ipynb file)
+jupyter
+
+
+ipykernel

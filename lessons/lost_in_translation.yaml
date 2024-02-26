@@ -1,0 +1,23 @@
+level: B1
+
+title:
+  en: "Lost in Translation"
+  es: "Perdidos en la Traducción"
+
+summary:
+  en: "In this lesson, Maria and Diego find themselves in amusing language mishaps while exploring a foreign city. Despite the confusion, they learn to laugh at their mistakes and embrace the adventure of communication barriers."
+  es: "En esta lección, María y Diego se encuentran en divertidas confusiones lingüísticas mientras exploran una ciudad extranjera. A pesar de la confusión, aprenden a reírse de sus errores y a abrazar la aventura de las barreras de comunicación."
+
+conversation:
+  - en: "Maria pointed at the menu and asked, '¿Qué es eso?'"
+    es: "María señaló el menú y preguntó: 'What is that?'"
+  - en: "Diego glanced at the menu, then back at Maria with a puzzled expression. 'Uh, eso es... uhm, that's a question?'"
+    es: "Diego miró el menú y luego a María con una expresión confundida. 'Uh, eso es... uhm, ¿eso es una pregunta?'"
+  - en: "Maria burst into laughter, realizing her mistake. 'Sorry, I meant, what's that?'"
+    es: "María estalló en risas, dándose cuenta de su error. 'Lo siento, quise decir, ¿qué es eso?'"
+  - en: "Diego joined in her laughter. 'Ah, that makes more sense! Well, that's... um, it's a sandwich.'"
+    es: "Diego se unió a sus risas. '¡Ah, eso tiene más sentido! Bueno, eso es... um, es un sándwich.'"
+  - en: "They both chuckled at the exchange, realizing that their language mix-ups were part of the fun of exploring a new place."
+    es: "Ambos se rieron de la situación, dándose cuenta de que sus confusiones lingüísticas eran parte de la diversión de explorar un lugar nuevo."
+  - en: "Maria grinned. 'I guess we'll have to rely on gestures and smiles to get us through the rest of the trip.'"
+    es: "María sonrió. 'Supongo que tendremos que depender de gestos y sonrisas para pasar el resto del viaje.'"
